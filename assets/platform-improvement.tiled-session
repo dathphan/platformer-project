@@ -1,0 +1,43 @@
+{
+    "activeFile": "platformer-level-1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "platformer-level-1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 60,
+                "y": 271
+            }
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 2
+        },
+        "platformer-level-1.tmx#scribble_tilemap": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/dp701/Documents/GitHub/PlatformImprovement/assets",
+    "last.imagePath": "C:/Users/dp701/Documents/GitHub/PlatformImprovement/assets",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "openFiles": [
+        "platformer-level-1.tmx"
+    ],
+    "project": "platform-improvement.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}

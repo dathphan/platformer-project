@@ -1,0 +1,55 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platformer-level.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "platformer-level.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 865.3333333333333,
+                "y": -52
+            }
+        },
+        "platformer-level.tmx#scribble-tilemap": {
+            "scaleInDock": 1
+        },
+        "platformer-level.tmx#tilemap_packed": {
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "platformer-level.tmx#tileset": {
+            "scaleInDock": 0.75
+        }
+    },
+    "last.exportedFilePath": "C:/Users/dp701/Documents/GitHub/PlatformImprovement/assets",
+    "last.imagePath": "C:/Users/dp701/Documents/GitHub/PlatformImprovement/assets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 60,
+    "map.tileWidth": 60,
+    "map.width": 300,
+    "openFiles": [
+        "platformer-level.tmx"
+    ],
+    "project": "scribble-slicer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "platformer-level.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
